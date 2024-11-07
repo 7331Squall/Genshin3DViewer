@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+}
+
+.list {
+    position: absolute;
+    background-color: #000C;
+    color: #FFFF;
+    padding: 1em;
+    border-radius: 5px;
+    margin: 0.5em;
+    font-size: 1.25em;
+}
+
+.listitem {
+    margin: 3px;
+}
+
+.hideBtn {
+    width: 100%;
+    font-weight: bold;
+    color: #FFF;
+    background: none;
+    border: 1px solid #FFF;
+    padding: 0.4em;
+    margin: 0.4em;
+}
